@@ -23,6 +23,8 @@ O conteúdo inclui tanto exercícios simples (como verificar se um número é po
 
 Todos os exercícios são escritos de forma didática, sem uso excessivo de bibliotecas ou métodos avançados, focando em comandos fundamentais como `if`, `else`, `for`, `while` e `range`.
 
+Há muito a se fazer ainda por aqui! 
+
 ---
 
 ## Scripts de Automação (.BAT)
